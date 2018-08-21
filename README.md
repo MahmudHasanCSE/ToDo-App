@@ -1,2 +1,2 @@
 # ToDo-App
-A simple ToDo app using Django. 
+A simple Django ToDo app.
